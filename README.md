@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Shubham Kumar
 
-🎓 BS (Data Science and applications) | Aspiring Full-Stack Developer & ML Enthusiast  
-💻 Currently working on a cross-platform vehicle parking app & Quiz Master app
-📚 Learning: Machine Learning, Advanced Backend, WEB3  
-👯 Looking to collaborate on full-stack web apps, and ML-based real-world tools 
-🎯 Goals: Contribute to open source & build real-world projects  
+- 🎓 BS (Data Science and applications) | Aspiring Full-Stack Developer & ML Enthusiast  
+- 💻 Currently working on a cross-platform vehicle parking app & Quiz Master app
+- 📚 Learning: Machine Learning, Advanced Backend, WEB3  
+- 👯 Looking to collaborate on full-stack web apps, and ML-based real-world tools 
+- 🎯 Goals: Contribute to open source & build real-world projects  
 
 ---
 
