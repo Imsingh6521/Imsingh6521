@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## 🎯 Summary
 - 🎓 BS in Data Science and Applications | Aspiring Full-Stack Developer & ML Enthusiast  
 - 💻 Currently working on a cross-platform vehicle parking app & Quiz Master app
-- 📚 Learning: Machine Learning, Advanced Backend & Web 3  
-- 👯 I'm looking to collaborate on full-stack web apps, and real-world ML projects
+- 📚 Learning: Machine Learning, Advanced Backend & Web3  
+- 👯 I'm looking to collaborate on full-stack web apps and real-world ML projects
 - 🎯 Goals: Contribute to open source & build real-world projects  
 
 ---
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - 💻 Languages: [Java](https://www.java.com), [Python](https://www.python.org), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), SQL
 - 🧰 Frameworks & Tools: Flask, Vue.js, Redis, Celery, Bootstrap  
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔥 GitHub Stats
+## 🔥 GitHub Stats
 
 ![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsingh6521&show_icons=true&theme=tokyonight)
 
@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 Contributions & Streaks
+## 📈 Contributions & Streaks
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=imsingh6521&theme=tokyonight&hide_border=false)
-![Metrics](https://github.com/imsingh6521/imsingh6521/blob/main/github-metrics.svg)
+<!-- ![Metrics](https://github.com/imsingh6521/imsingh6521/blob/main/github-metrics.svg) -->
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shubhamkkr)
 - ✉️ [Email](mailto:shubhamkkr32109@gmail.com)
 
 ---
