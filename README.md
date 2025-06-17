@@ -14,21 +14,22 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I'm Shubham Kumar
-
-- 🎓 BS (Data Science and applications) | Aspiring Full-Stack Developer & ML Enthusiast  
+🚀 Building real-world web apps | Full-Stack & ML Enthusiast | BS in Data Science
+  
+- 🎓 BS in Data Science and Applications | Aspiring Full-Stack Developer & ML Enthusiast  
 - 💻 Currently working on a cross-platform vehicle parking app & Quiz Master app
-- 📚 Learning: Machine Learning, Advanced Backend, WEB3  
-- 👯 Looking to collaborate on full-stack web apps, and ML-based real-world tools 
+- 📚 Learning: Machine Learning, Advanced Backend & Web 3  
+- 👯 I'm looking to collaborate on full-stack web apps, and real-world ML projects
 - 🎯 Goals: Contribute to open source & build real-world projects  
 
 ---
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: JAVA, Python, JavaScript, SQL  
+- 💻 Languages: [Java](https://www.java.com), [Python](https://www.python.org), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), SQL
 - 🧰 Frameworks & Tools: Flask, Vue.js, Redis, Celery, Bootstrap  
 - 🧠 ML Tools: NumPy, Pandas   
-- ⚙️ Dev Tools: Git, GitHub, VSCode, Postman, Linux, postgresql  
+- ⚙️ Dev Tools: Git, GitHub, VSCode, Postman, Linux, PostgreSQL  
 
 ---
 
