@@ -15,12 +15,22 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Shubham Kumar
 🚀 Building real-world web apps | Full-Stack & ML Enthusiast | BS in Data Science
-  
+
+## 🎯 Summary
 - 🎓 BS in Data Science and Applications | Aspiring Full-Stack Developer & ML Enthusiast  
 - 💻 Currently working on a cross-platform vehicle parking app & Quiz Master app
 - 📚 Learning: Machine Learning, Advanced Backend & Web 3  
 - 👯 I'm looking to collaborate on full-stack web apps, and real-world ML projects
 - 🎯 Goals: Contribute to open source & build real-world projects  
+
+---
+## 🧩 Badges
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange)
 
 ---
 
@@ -38,6 +48,13 @@ Here are some ideas to get you started:
 ![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsingh6521&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imsingh6521&layout=compact&theme=tokyonight)
+
+---
+
+### 📈 Contributions & Streaks
+
+![GitHub Streak](https://streak-stats.demolab.com?user=imsingh6521&theme=tokyonight&hide_border=false)
+![Metrics](https://github.com/imsingh6521/imsingh6521/blob/main/github-metrics.svg)
 
 ---
 
